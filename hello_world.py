@@ -1,1 +1,6 @@
-print("hello world")
+
+def greeting():
+    print("Hello world")
+     
+    print("new text")
+greeting()
